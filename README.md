@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ Ishan Shah | Threat Researcher | Threat Hunter | Certified Web Pentester | GRC Analyst | CTF Player | Ethical Hacker 🔐</h1>
+<h1 align="center">🛡️ Ishan Shah | Threat Researcher | Threat Hunter | Certified Web Pentester | GRC Analyst | Upcoming Google Cybersecurity Certified Professional | Ethical Hacker 🔐</h1>
 <h3 align="center">"Transforming threats into opportunities to defend the digital frontier."</h3>
 
 
