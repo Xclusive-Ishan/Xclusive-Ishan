@@ -10,14 +10,17 @@
 ---
 ---
 # 🚀 About Me   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jWAugNZU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/final_knight_move) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-shah-6a1584287) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Ishan-Shah-266) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:b23cm1050@iitj.ac.in)
+🔹 **I am currently working as a Research Intern** with **IIT Bombay** and **Max Planck Institute of Informatics, Germany**, focusing on **web privacy and compliance**. I am the **first author** of the research work related to this project.  
 
-🔹 **AI/ML-Based Cybersecurity Specialist | Ethical Hacker | Threat Researcher | Certified Pentester | GRC Analyst**  
-🔹 Passionate about **Threat Intelligence, Predictive Analytics, and Machine Learning for Identifying Attack Vectors**  
-🔹 Strong skills in **Extensive Web Pentesting, Secure Coding, and AI-Driven Vulnerability Assessment**  
-🔹 Leveraging **AI and ML** to create new **attack vectors**, identify system edges, and enhance proactive security measures  
-🔹 Using **AI and ML** to challenge current security systems, revealing new attack vectors and uncovering unseen vulnerabilities  
-🔹 **Innovator in AI-Based Offensive Security Solutions**  
+🔹 **I am looking to collaborate** on projects that involve understanding threats, exploring new ways systems can be vulnerable, and finding ways to make systems more secure. I enjoy working with others who are passionate about improving security.  
 
+🔹 **I am open for opportunities and roles in Research organizations, Research labs,  companies, firms**, and many more where I can gain **experience** and can contribute to their work in cybersecurity.
+
+🔹 **I am currently learning** more about threat analysis, penetration testing, and advanced research methods in cybersecurity.  
+
+🔹 **Ask me about** - I have experience as a Certified Pentester and Researcher. I’ve been through the process of figuring out how to start and build a career in this field, and I’m always happy to share what I’ve learned and help others.  
+
+🔹 **Fun Fact** - I’m so dedicated to cybersecurity that I’ve spent nights analyzing logs and threat patterns... because sleep can wait, but vulnerabilities can’t. 🕵️‍♂️💻  
 
 --- 
 
