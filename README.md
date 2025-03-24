@@ -24,7 +24,7 @@
 
 🔹 **Currently Learning**:  
    - Threat analysis  
-   - Penetration testing  
+   - Advanced Penetration testing  
    - Advanced cybersecurity research methods  
 
 🔹 **Ask Me About**:  
