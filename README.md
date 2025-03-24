@@ -10,39 +10,48 @@
 ---
 ---
 # 🚀 About Me   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jWAugNZU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/final_knight_move) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-shah-6a1584287) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Ishan-Shah-266) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:b23cm1050@iitj.ac.in)
-🔹 **I am currently working as a Research Intern** with **IIT Bombay** and **Max Planck Institute of Informatics, Germany**, focusing on **web privacy and compliance**. I am the **first author** of the research work related to this project.  
+🔹 **I am currently working as a Research Intern** with **IIT Bombay** and **Max Planck Institute of Informatics, Germany**, focusing on **web 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;privacy and compliance**. I am the **first author** of the research work related to this project.  
 
-🔹 **I am looking to collaborate** on projects that involve understanding threats, exploring new ways systems can be vulnerable, and finding ways to make systems more secure. I enjoy working with others who are passionate about improving security.  
+🔹 **I am looking to collaborate** on projects that involve understanding threats, exploring new ways systems can be vulnerable, and finding 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ways to make systems more secure. I enjoy working with others who are passionate about improving security.  
 
-🔹 **I am open for opportunities and roles in Research organizations, Research labs,  companies, firms**, and many more where I can gain **experience** and can contribute to their work in cybersecurity.
+🔹 **I am open for opportunities and roles in Research organizations, Research labs,  companies, firms**, and many more where I can gain 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**experience** and can contribute to their work in cybersecurity.
 
 🔹 **I am currently learning** more about threat analysis, penetration testing, and advanced research methods in cybersecurity.  
 
-🔹 **Ask me about** - I have experience as a Certified Pentester and Researcher. I’ve been through the process of figuring out how to start and build a career in this field, and I’m always happy to share what I’ve learned and help others.  
+🔹 **Ask me about** - I have experience as a Certified Pentester and Researcher. I’ve been through the process of figuring out how to start and 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;build a career in this field, and I’m always happy to share what I’ve learned and help others.  
 
-🔹 **Fun Fact** - I’m so dedicated to cybersecurity that I’ve spent nights analyzing logs and threat patterns... because sleep can wait, but vulnerabilities can’t. 🕵️‍♂️💻  
+🔹 **Fun Fact** - I’m so dedicated to cybersecurity that I’ve spent nights analyzing logs and threat patterns... because sleep can wait, but 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vulnerabilities can’t. 🕵️‍♂️💻  
 
 --- 
 
 
 ---
 ## 🏴‍☠️ Skills & Expertise  
-💻 **Penetration Testing:** Metasploit, Burp Suite, SQLmap, PortSwigger Academy (Web Application Security Training)  
-🔍 **Web & API Security:** Nikto, Recon-ng, **Web Scraping**, **Google Dorking**  
-🕵️ **OSINT & Reconnaissance:** Maltego, Shodan, **Google Dorking**
+🖥️ **Testing Skills:** Penetration Testing, API Testing (Postman), Automated Testing (Selenium, JMeter)<br>
+👾  **Security and Network Analysis:** Metasploit, Nmap, Wireshark, Nessus, Snort, **Splunk**<br>
+🔍 **Web & API Security:** **Burp Suite**, Nikto, SQLMap, Dirbuster <br>
+🕵️ **OSINT & Reconnaissance:** Maltego, Shodan, **Google Dorking**, SpiderFoot, theHarvester, OSINT Framework<br>
 
 🛡️ **Defensive Security (Blue Team)**  
 🖥️ **SIEM & Monitoring:** Splunk  
-🚨 **Incident Response:** Wireshark 
+🚨 **Incident Response:** Wireshark <br>
+⚠️ **Malware Analysis:** **Cuckoo**
 
 📀 **Operating Systems & Networks**  
-🐧 **Linux:** Kali, Ubuntu  
+🐧 **Linux:** Linux (Kali, Ubuntu), Windows (Server, Active Directory)
 🖥️ **Windows Security:** PowerShell  
 🌐 **Network Security:** Nmap, Netcat  
 
 🔍 **Machine Learning & AI**  
 🤖 **Machine Learning (ML)**: Supervised and Unsupervised Learning, Model Training ,Deep Learning Models , Llama .  
 📸 **Computer Vision**: Object Detection, Image Classification,YOLO ,Segmentation
+
+🎓 **Certifications:** **TryHackMe Junior Web Pentester, Google Cybersecurity Certified Professional(ongoing)**
 
 
 # 💻 Tech Stack:
