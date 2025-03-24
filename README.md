@@ -10,22 +10,31 @@
 ---
 ---
 # 🚀 About Me   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jWAugNZU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/final_knight_move) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-shah-6a1584287) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Ishan-Shah-266) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:b23cm1050@iitj.ac.in)
-🔹 **I am currently working as a Research Intern** with **IIT Bombay** and **Max Planck Institute of Informatics, Germany**, focusing on **web 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;privacy and compliance**. I am the **first author** of the research work related to this project.  
+🔹 **Currently**: Research Intern at **IIT Bombay** & **Max Planck Institute of Informatics, Germany**  
+   - Focus: Web privacy and compliance  
+   - First author of related research work  
 
-🔹 **I am looking to collaborate** on projects that involve understanding threats, exploring new ways systems can be vulnerable, and finding 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ways to make systems more secure. I enjoy working with others who are passionate about improving security.  
+🔹 **Collaboration Interests**:  
+   - Threat understanding and vulnerability exploration  
+   - System security improvements  
+   - Working with security-passionate teams  
 
-🔹 **I am open for opportunities and roles in Research organizations, Research labs,  companies, firms**, and many more where I can gain 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**experience** and can contribute to their work in cybersecurity.
+🔹 **Seeking**: Research roles in organizations/labs/companies  
+   - Goal: Gain experience and contribute to cybersecurity  
 
-🔹 **I am currently learning** more about threat analysis, penetration testing, and advanced research methods in cybersecurity.  
+🔹 **Currently Learning**:  
+   - Threat analysis  
+   - Penetration testing  
+   - Advanced cybersecurity research methods  
 
-🔹 **Ask me about** - I have experience as a Certified Pentester and Researcher. I’ve been through the process of figuring out how to start and 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;build a career in this field, and I’m always happy to share what I’ve learned and help others.  
+🔹 **Ask Me About**:  
+   - Certified Pentester experience  
+   - Researcher journey  
+   - Building a cybersecurity career  
 
-🔹 **Fun Fact** - I’m so dedicated to cybersecurity that I’ve spent nights analyzing logs and threat patterns... because sleep can wait, but 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vulnerabilities can’t. 🕵️‍♂️💻  
+🔹 **Fun Fact**:  
+   - Spent nights analyzing threat patterns  
+   - "Sleep can wait, vulnerabilities can't" 🕵️‍♂️💻
 
 --- 
 
