@@ -19,8 +19,11 @@
    - System security improvements  
    - Working with security-passionate teams  
 
-🔹 **Seeking**: Research roles in organizations/labs/companies  
-   - Goal: Gain experience and contribute to cybersecurity  
+🔹 **Open to**:
+
+   - Being part of Organizations, Research labs, or Companies in Cybersecurity.
+
+   - Gaining experience and contributing to the field.
 
 🔹 **Currently Learning**:  
    - Threat analysis  
