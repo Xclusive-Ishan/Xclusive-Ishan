@@ -55,12 +55,12 @@
 ⚠️ **Malware Analysis:** **Cuckoo**
 
 📀 **Operating Systems & Networks**  
-🐧 **Linux:** Linux (Kali, Ubuntu), Windows (Server, Active Directory)
+🐧 **Linux:** Linux (Kali, Ubuntu), Windows (Server, Active Directory)<br>
 🖥️ **Windows Security:** PowerShell  
 🌐 **Network Security:** Nmap, Netcat  
 
-🔍 **Machine Learning & AI**  
-🤖 **Machine Learning (ML)**: Supervised and Unsupervised Learning, Model Training ,Deep Learning Models , Llama .  
+🔍 **Artificial Intelligence & Machine Learning**  
+🤖 **Machine Learning (ML)**: Supervised and Unsupervised Learning,Transfer Learning & Fine-tuning LLM's.  
 📸 **Computer Vision**: Object Detection, Image Classification,YOLO ,Segmentation
 
 🎓 **Certifications:** **TryHackMe Junior Web Pentester, Google Cybersecurity Certified Professional(ongoing)**
