@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ Ishan Shah | Threat Researcher | Certified Web Pentester | GRC Analyst | Upcoming Google Cybersecurity Certified Professional  🔐</h1>
+<h1 align="center">🛡️ Ishan Shah | Threat Researcher | Certified Web Pentester | GRC Scholar | Upcoming Google Cybersecurity Certified Professional  🔐</h1>
 <h3 align="center">"Transforming threats into opportunities to defend the digital frontier."</h3>
 
 
