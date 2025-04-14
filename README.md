@@ -10,7 +10,7 @@
 ---
 ---
 # 🚀 About Me   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jWAugNZU) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/final_knight_move) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-shah-6a1584287) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Ishan-Shah-266) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:b23cm1050@iitj.ac.in)
-🔹 **Currently**: GRC Research Intern at IIT Bombay & Max Planck Institute for Informatics (Germany)
+🔹 **Currently**:
    - Focus: Web privacy and compliance  
    - First author of related research work  
 
